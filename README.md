@@ -8,4 +8,3 @@ Este proyecto demuestra la construcción de una dashboard típíca basada en el 
 
 ## Pre-visualización ##
 <img width="660" height="828" alt="image" src="https://github.com/user-attachments/assets/67229667-a7bb-489b-aaf0-076fcdeac1e4" />
-<img width="1072" height="672" alt="image" src="https://github.com/user-attachments/assets/67f9830f-755f-4f0e-8d23-9d525f0357a4" />
