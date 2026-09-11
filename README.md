@@ -1,4 +1,4 @@
-# *Excel* - Portafolio de proyectos
+# *Excel* - Portafolio de proyectos 📊
 **Contenidos**: Macros, automatización, tablas dinámicas y modelado de datos.
 
 ---
